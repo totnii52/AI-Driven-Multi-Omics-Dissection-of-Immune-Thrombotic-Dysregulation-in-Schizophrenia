@@ -40,9 +40,6 @@ model_outcome_ptm.csv: Model outcomes for post-translational modification data.
 
 model_outcome_meta.csv: Model outcomes with metadata.
 
-ag-20241103_082447.zip: Archived data file.
-
-ag-20241213_060715.zip: Another archived data file.
 
 ## Prerequisites
 
